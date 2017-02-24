@@ -15,4 +15,5 @@ kcp -di curl-kcp
 
 # Install 
 cd YOUR-PATH/spotify-master
+
 makepkg -si
